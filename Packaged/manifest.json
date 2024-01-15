@@ -1,0 +1,7 @@
+{
+    "name": "VeinBooster",
+    "version_number": "0.0.5",
+    "website_url": "https://github.com/unfoundbug",
+    "description": "(CHEAT!) Prevents all damage to ore veins by mining drills. Infinite resources!",
+    "dependencies": [ ]
+}
